@@ -22,4 +22,3 @@ end
 end 
 birthday_kids
 end 
-#if suite == :suite_a && name.start_with?("A)
